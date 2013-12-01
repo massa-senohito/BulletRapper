@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "BulletRapper", "BulletRapper\BulletRapper.vcxproj", "{93045D96-3E14-467A-B09E-14BAD081B51C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{93045D96-3E14-467A-B09E-14BAD081B51C}.Debug|Win32.ActiveCfg = Debug|Win32
+		{93045D96-3E14-467A-B09E-14BAD081B51C}.Debug|Win32.Build.0 = Debug|Win32
+		{93045D96-3E14-467A-B09E-14BAD081B51C}.Release|Win32.ActiveCfg = Release|Win32
+		{93045D96-3E14-467A-B09E-14BAD081B51C}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
