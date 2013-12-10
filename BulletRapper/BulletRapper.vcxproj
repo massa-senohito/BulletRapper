@@ -74,7 +74,6 @@
     <ClInclude Include="PhysicsEngine.h" />
     <ClInclude Include="RigidBodyPhysic.h" />
     <ClInclude Include="SoftBodyPhysic.h" />
-    <ClInclude Include="TransFormHelper.h" />
     <ClInclude Include="TypeOfShape.h" />
   </ItemGroup>
   <ItemGroup>
@@ -85,7 +84,6 @@
     <ClCompile Include="PhysicsEngine.cpp" />
     <ClCompile Include="RigidBodyPhysic.cpp" />
     <ClCompile Include="SoftBodyPhysic.cpp" />
-    <ClCompile Include="TransFormHelper.cpp" />
     <ClCompile Include="TypeOfShape.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
